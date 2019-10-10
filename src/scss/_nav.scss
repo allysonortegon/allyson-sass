@@ -16,6 +16,10 @@
     color: $primary-color;
   }
 
+  a:visited {
+    color: $primary-color;
+    text-decoration: none;
+
   a:hover {
     text-decoration: underline;
   }
